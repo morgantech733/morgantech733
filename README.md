@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Morgan (@morgantech733)
 
-<!--
-**morgantech733/morgantech733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Seoul. Currently building microservices and data pipelines at Tech Labs.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- Designing reliable APIs with Go and FastAPI
+- Query optimization in PostgreSQL and caching strategies with Redis
+- Automating local and staging workflows with Docker
+- Digging deeper into distributed systems and database internals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox
+- **Languages:** Go, Python, SQL, Bash
+- **Databases & Cache:** PostgreSQL, Redis
+- **Frameworks:** FastAPI, Gin
+- **Infra & Tooling:** Docker, Linux, Git, GitHub Actions
+
+#### Connect
+- Drop a note: morgantech733@gmail.com
+- Always open to discussing backend architecture or interesting open-source tools.
